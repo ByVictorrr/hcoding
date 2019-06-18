@@ -25,5 +25,7 @@ argument is missing, the output should go to stdout.)
 
 ## Usage
 make
+
 ./hencode infile [ outfile ]
+
 ./hdecode [ ( infile | - ) [ outfile ] ]
